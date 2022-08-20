@@ -2,7 +2,7 @@
 Repositório utilizado para armazenar as apostilas, livros, atividades, cursos, programas etc. do curso online de
 de Desenvolvimento de Sistemas iniciado no 2º Semestre de 2022. 
 
-*Este é apenas o arquivo inivial, o arquivo pode ser configurado por qualquer pessoa desta sala.*
+*Este é apenas o arquivo inicial, o arquivo pode ser configurado por qualquer pessoa desta sala.*
 
 ________________________________________________________________________________
 
